@@ -255,12 +255,6 @@ div #lefts{
   font-family: sans-serif;
   background: #deecdf;
 }
-.skillsimg{
-  float: right;
-  margin-top: 400px;
-  margin-right: 20px;
-  margin-bottom: 20px;
-}
 .skills{
   width: 600px;
   position: absolute;
