@@ -249,23 +249,6 @@ div #lefts{
   color: #313131;
   padding: 20px;
 }
-.bodyskills {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-  background: #deecdf;
-}
-.skills{
-  width: 600px;
-  position: absolute;
-  top:20%;
-  left:27%;,
-  transform: translate(-50%,-50%);
-  overflow: hidden;
-  background: white;
-  color: #313131;
-  padding: 20px;
-}
 
 .skills div{
   width: 100%;
