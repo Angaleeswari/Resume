@@ -1,2 +1,2 @@
 # cvresume
-it s new
+It's My new Resume
